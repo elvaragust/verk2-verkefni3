@@ -34,6 +34,14 @@
     
     5. Hver er munurinn á NPN og PNP transistorum?
     PNP transistors eru með 2 layers af P(positively charged) efni sem eru utan um eitt layer af N (negatively charged) efni og það hveiknar á honum þegar það er ekkert rafmagn að fara í gegnum hann, NPN transistorinn er öfugur og hann er með 2 layer af N (negatively charged) sem er utan um eitt layer af P (positively charged) efni og hann er alltaf að senda rafmagn þangad til að það er ekki nógu mikið rafmagn og hann slekkur á sér.
+## 2.     
+## 3. ↓↓↓
+    1. Afhverju þurfum við að nota PWM pinna til að stýra DC mótor?
+    Hann stjórnar hversu mikið rafmagn kemur inn a dc motorinn
+    2. Afhverju þurfum við að nota viðnám, transistor og diode með DC mótor í Lesson 13. DC Motors
+        * viðnámið stýrir hversu mikið rafmagn það á að fara í transistor
+        * transistor er til að tryggja að það kemur 5v og til að stilla hraða á motorinum
+        * diode er notað til að tryggja að ekkert klikkar þegar þú slekkur á motorinum
     
     
 
