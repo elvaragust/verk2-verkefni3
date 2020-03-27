@@ -16,7 +16,7 @@
     5. Ahverju þarf að stýra LCD1602 með nokkrum pinnum (4 eða 8) á sama tíma? útskýrðu!
     Það er ekki víst afhverju en það er helmingi hraðara að nota 8 pinna heldur en 4. 4 bita tekur 7 (1/0 pinna) en 8 bita tekur 11 (1/0)pinna og þu getur gert eiginlega hvað sem er ef maður notar 4 bita
 
-## 2. [link a tinkercad](https://www.tinkercad.com/things/63A8e1V6wB9-epic-uusam/editel?tenant=circuits?sharecode=EC6CY2bv42_Y-ZlNEXGRF0QOYcXxYwcDM8I7jBNzzMQ=)
+## 2. [link a tinkercad](https://www.tinkercad.com/things/63A8e1V6wB9-epic-uusam/editel)
 
 # 3.2
 ## 1. ↓↓↓
