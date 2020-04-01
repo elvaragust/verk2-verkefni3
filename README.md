@@ -42,6 +42,7 @@
         * viðnámið stýrir hversu mikið rafmagn það á að fara í transistor
         * transistor er til að tryggja að það kemur 5v og til að stilla hraða á motorinum
         * diode er notað til að tryggja að ekkert klikkar þegar þú slekkur á motorinum
+ ## 4. [link af verklega](https://photos.app.goo.gl/bScvanTG5LkXjWF98) 
     
     
 
