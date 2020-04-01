@@ -34,7 +34,7 @@
     
     5. Hver er munurinn á NPN og PNP transistorum?
     PNP transistors eru með 2 layers af P(positively charged) efni sem eru utan um eitt layer af N (negatively charged) efni og það hveiknar á honum þegar það er ekkert rafmagn að fara í gegnum hann, NPN transistorinn er öfugur og hann er með 2 layer af N (negatively charged) sem er utan um eitt layer af P (positively charged) efni og hann er alltaf að senda rafmagn þangad til að það er ekki nógu mikið rafmagn og hann slekkur á sér.
-## 2.     
+## 2. [link af tinkercad](https://www.tinkercad.com/things/ay6XRKiXGGd)     
 ## 3. ↓↓↓
     1. Afhverju þurfum við að nota PWM pinna til að stýra DC mótor?
     Hann stjórnar hversu mikið rafmagn kemur inn a dc motorinn
