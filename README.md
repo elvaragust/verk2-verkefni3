@@ -1,5 +1,5 @@
 # verk2-verkefni3
-# 3.1
+# 3.1 LCD (5%)
 ## 1. ↓↓↓
     1. Hver er helsti munurinn á Character LCDs og Graphical LCDs?
     Character LCD er betri til að sýna texta/litlar myndir í 16 (5x7 pixlum) en graphical Lcd er betri til að búa til myndir afþví það er bara eitt stórt grid sem er (128x64 pixlar)
@@ -18,7 +18,7 @@
 
 ## 2. [link a tinkercad](https://www.tinkercad.com/things/63A8e1V6wB9-epic-uusam/editel)
 
-# 3.2
+# 3.2 motor og Transistors (5%)
 ## 1. ↓↓↓
     1. Hvernig er skrefmótor (e. stepper motor) ólíkur hefðbundnum DC mótor?
     DC motor er þekktur fyrir að hafa járn súlu sem stendur úr honum og hann getur snúið sér eins mikið og hann vill en stepper motor er þekktur fyrir ad hafa plast kassa og hann getur bara farið 360* og svo þarf hann ad fara til baka
@@ -42,7 +42,9 @@
         * viðnámið stýrir hversu mikið rafmagn það á að fara í transistor
         * transistor er til að tryggja að það kemur 5v og til að stilla hraða á motorinum
         * diode er notað til að tryggja að ekkert klikkar þegar þú slekkur á motorinum
- ## 4. [link af verklega](https://photos.app.goo.gl/bScvanTG5LkXjWF98) 
+## 4. [link af verklega](https://photos.app.goo.gl/bScvanTG5LkXjWF98) 
+
+# 3.3 DC motor og H-Bridge (5%)0
     
     
 
