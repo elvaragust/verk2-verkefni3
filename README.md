@@ -44,7 +44,28 @@
         * diode er notað til að tryggja að ekkert klikkar þegar þú slekkur á motorinum
 ## 4. [link af verklega](https://photos.app.goo.gl/bScvanTG5LkXjWF98) 
 
-# 3.3 DC motor og H-Bridge (5%)0
+# 3.3 DC motor og H-Bridge (5%)
+## 1. ↓↓↓
+    [link af tinkercad](https://www.tinkercad.com/things/81T8Lr4IAEQ)
+    
+    [link af verklega](https://photos.app.goo.gl/kdWcXXvbtqPcohER7)
+## 2. ↓↓↓
+    1. Hvað er hægt að gera með L293D
+    L293d er helst notað fyrir motora og til að stilla hraða
+    2. Hver er munurinn á L293 or L293D
+    munurinn á l293 og l293d er að í l293 þá þarf maður að nota auka íhlut
+    3. Í lesson 15 er eftirfarandi kóðabútur, útskýrðu hann útfrá H-Bridge
+    þetta er til að breyta hraðanum og ef pin1 er í high og pin2 í low þá myndi það snúast í eina átt og það sama og öfugt
+    4. L293D er með tvo +V pinna (8 and 16), útskýrðu þá
+    pin (8) er notaður fyir power á motor og (16) fyrir kubbin sjálfan
+    
+## 3. ↓↓↓
+    * Brushed DC Motor
+        þessir eru notaðir helst í að búa til leikföng sem keyra og viftur
+    * Brushless DC motor.
+        þessir eru ekki eins hávaðir og brushed og þeir eru helst notaðir fyrir tölvu viftur o.f.l
+    * Stepper motor
+        þessir motorar eru dýrarstir, hraðastir og bestir þeir eru helst notaðir fyrir klukkur eða vélmenni
     
     
 
